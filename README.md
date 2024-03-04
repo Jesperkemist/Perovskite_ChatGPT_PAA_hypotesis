@@ -1,4 +1,4 @@
-# Hypotesis generation for perovsktie surface passivators
+# Hypotesis generation for perovskite surface passivators
 
 This repository contains the data and the code used for generating all figures in the paper:
 
